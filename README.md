@@ -1,16 +1,18 @@
-## Hi there 👋
+# What's up 🚀
 
-<!--
-**One-hardy-anvil579/One-hardy-anvil579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **One-hardy-anvil579**, a senior engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me through GitHub
+- 📚 Reading the source is the best documentation
+- 🚀 Performance matters
+- 🔭 Currently working on personal side projects
+
+## Tech
+
+`Axum` `Dart` `Swift` `Phoenix`
+
+---
+
+_Available for hire._
